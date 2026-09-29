@@ -1,0 +1,79 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Command An Army Wiki",
+  "shortName": "Command An Army",
+  "description": "Command An Army Roblox wiki with working codes, unit evolution, tier list, units, beginner tips and Discord links, updated for the latest game changes.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "0 0% 96%",
+      "foreground": "0 0% 7%",
+      "card": "0 0% 100%",
+      "card-foreground": "0 0% 7%",
+      "primary": "240 6% 10%",
+      "primary-foreground": "0 0% 100%",
+      "secondary": "0 0% 89%",
+      "muted": "0 0% 91%",
+      "muted-foreground": "0 0% 7%",
+      "border": "0 0% 80%",
+      "radius": ".45rem",
+      "card-shadow": "0 14px 36px rgba(15, 18, 24, .08)",
+      "hero-gradient": "linear-gradient(90deg, hsl(240 6% 10% / .16), transparent 46%)",
+      "background-pattern": "none",
+      "font-sans": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "heading-weight": "700",
+      "heading-letter-spacing": "-0.02em"
+    },
+    "skin": "editorial",
+    "headerStyle": "solid",
+    "componentStyle": "rounded",
+    "appearanceVersion": 2,
+    "appearanceMode": "fixed-template",
+    "templateVersion": 1,
+    "accentColorId": "white",
+    "colorMode": "custom",
+    "background": "#F6F6F6",
+    "accent": "#F8FAFC",
+    "fontId": "source-sans"
+  },
+  "hosting": {
+    "siteUrl": "https://command-an-army.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "contact": {
+    "email": null,
+    "url": null
+  },
+  "repositoryUrl": null,
+  "allowedExternalDomains": [
+    "www.roblox.com",
+    "discord.com",
+    "discord.gg"
+  ],
+  "assets": {
+    "logo": "/images/command-an-army-logo.webp",
+    "cover": "/images/command-an-army-cover.webp",
+    "openGraph": "/images/command-an-army-og.svg",
+    "favicon": "/images/command-an-army-logo.webp"
+  },
+  "game": {
+    "name": "Command An Army",
+    "platform": "Roblox",
+    "developer": "Fight, Fight, Fight!",
+    "genre": "Action",
+    "officialUrl": "https://www.roblox.com/games/101770480176177"
+  },
+  "seo": {
+    "titleTemplate": "%s",
+    "defaultKeywords": [
+      "Command An Army",
+      "Command An Army Roblox",
+      "Command An Army wiki"
+    ]
+  }
+}

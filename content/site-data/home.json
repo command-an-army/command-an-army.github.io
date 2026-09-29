@@ -1,0 +1,215 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Command An Army Wiki – Codes, Units, Tier List & Guides",
+  "description": "Command An Army Roblox wiki with working codes, unit evolution, tier list, units, beginner tips and Discord links, updated for the latest game changes.",
+  "keywords": [
+    "Command An Army",
+    "Command An Army Roblox",
+    "Command An Army wiki",
+    "Command An Army game",
+    "Command An Army codes",
+    "Command An Army units",
+    "Command An Army tier list"
+  ],
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "Roblox guide",
+    "heading": "Command An Army",
+    "lead": "Command An Army is a free Roblox team battle from Fight, Fight, Fight! You recruit troops, choose attack or defend, and give orders while you fight beside them. This wiki keeps the working codes, evolution paths, unit roster, a practical tier list, a first-hour route, and the Discord players use.",
+    "supportingText": "Redeem the working Gem codes, then field a squad that fits your Star Limit.",
+    "primaryLink": {
+      "label": "View Working Codes",
+      "slug": "codes",
+      "description": "Seven working Gem codes and how to redeem them."
+    },
+    "secondaryLink": {
+      "label": "Play Command An Army on Roblox",
+      "url": "https://www.roblox.com/games/101770480176177"
+    }
+  },
+  "sections": [
+    {
+      "id": "quick-links",
+      "heading": "Command An Army Wiki",
+      "intro": "Six guides cover the jobs players actually have. Open the one that matches the next thing you need to do.",
+      "links": [
+        {
+          "label": "Codes",
+          "slug": "codes",
+          "description": "Seven Gem codes, the rewards, and how to redeem them in game."
+        },
+        {
+          "label": "How to Evolve Units",
+          "slug": "how-to-evolve-units",
+          "description": "Mastery 20, the evolution paths, and which line to level first."
+        },
+        {
+          "label": "Tier List",
+          "slug": "tier-list",
+          "description": "A practical S to C ranking that weighs role and Star Limit."
+        },
+        {
+          "label": "Units",
+          "slug": "units",
+          "description": "The roster, with role, stars, source, and where each line ends."
+        },
+        {
+          "label": "Beginner Guide",
+          "slug": "beginner-guide",
+          "description": "Tutorial orders, a first loadout, and what to do in the first hour."
+        },
+        {
+          "label": "Discord",
+          "slug": "discord",
+          "description": "discord.gg/commandrblx, what the server is for, and the lookalike to skip."
+        }
+      ]
+    },
+    {
+      "id": "codes",
+      "heading": "Working codes",
+      "intro": "Seven codes pay Gems. Finish the tutorial, open Code on the right side of the screen, type the string exactly, and press Claim. Each code pays once per account.",
+      "paragraphs": [
+        "Gems are what you spend in the lobby summon area when you want troops beyond Mercenary, Shieldman, Spearman, and Archer. They do not raise mastery, and they do not equip a troop that breaks your Star Limit. Claim the list first, then decide what to summon.",
+        "Together the rewards are 2,900 Gems if every code still claims on your account: four codes pay 300, OPTIMIZE pays 700, and WAR and RELEASE pay 500 each. A second claim does not pay again. Strings that are not in the table are not part of the plan. The full redeem steps and the usual reasons a claim fails are on the codes page."
+      ],
+      "table": {
+        "caption": "Last checked Sep 29, 2026.",
+        "columns": ["Code", "Reward", "Status"],
+        "rows": [
+          ["RANKED", "300 Gems", "Working"],
+          ["GUILD", "300 Gems", "Working"],
+          ["PARRY", "300 Gems", "Working"],
+          ["RAPIER", "300 Gems", "Working"],
+          ["OPTIMIZE", "700 Gems", "Working"],
+          ["WAR", "500 Gems", "Working"],
+          ["RELEASE", "500 Gems", "Working"]
+        ]
+      },
+      "links": [
+        {
+          "label": "Open the codes page",
+          "slug": "codes",
+          "description": "Redeem steps, failed claims, and where the next code shows up."
+        }
+      ]
+    },
+    {
+      "id": "evolution",
+      "heading": "How units evolve",
+      "intro": "Evolution turns one troop into the next form on a fixed line. It is not the same button as ascension.",
+      "paragraphs": [
+        "Raise that unit to Mastery 20 by bringing it into matches, then confirm the next form at the Evolution station in the lobby. Account level is a different number. It moves your Star Limit, and a fourth troop slot opens around level 15. New accounts start at 6 stars and three slots. If the loadout screen shows different numbers, use the screen.",
+        "Ascension merges a duplicate of the same unit, stops at ascension 3, and raises damage and HP. It does not change the unit name. Evolution does, and the star cost usually goes up, so open the loadout before the next queue. The evolve screen shows the cost before you confirm.",
+        "Lines with a path are Mercenary to Squire to Knight, Shieldman to Sentinel to Imperial Wall, Spearman to Pikeman, Archer to Longbowman to Flame Archers, and Scout Rider to Cavalryman to Lancer. Spear Militia, Halberder, and Javelineer each have a next form. Spartan, Immortal, Samurai, Berserker, Mace, and Crossbowman have none. Leveling those summons still makes that copy stronger. It will not turn them into a different troop."
+      ],
+      "links": [
+        {
+          "label": "How to evolve units",
+          "slug": "how-to-evolve-units",
+          "description": "The five steps, the path table, and which line to level first."
+        }
+      ]
+    },
+    {
+      "id": "units-tier",
+      "heading": "Units and the tier list",
+      "paragraphs": [
+        "The units page is the roster. It answers what a troop is, what role it plays, how many stars it costs, whether you start with it or summon it, and which evolution it belongs to. The tier list is a separate, practical judgment of what is worth fielding. Use the Units and Tier List guides to compare roles, progression paths, and which units are worth investing in.",
+        "A star is both a rarity mark and a loadout cost. A 4-star summon can be the strongest troop you own and still be the wrong one to equip, because it leaves no room for a front line and a ranged unit. Shieldman, Spearman, and Archer stay useful early for that reason. Archer and Scout Rider matter later because their lines end at Flame Archers and Lancer.",
+        "Role decides the matchup more than the letter on a tier row. Shields hold a point and suffer against block-damage weapons such as Mace and the halberd line. Spears are the braced answer to cavalry. Cavalry reaches the next point and punishes archers who have no screen. Ranged troops, especially Flame Archers, win fights when somebody stands in front of them. Use the tier list to choose what to field, then use the units page to see how you actually obtain that troop."
+      ],
+      "links": [
+        {
+          "label": "Unit roster",
+          "slug": "units",
+          "description": "Roles, stars, and evolution families."
+        },
+        {
+          "label": "Tier list",
+          "slug": "tier-list",
+          "description": "Practical S to C picks and best units by role."
+        }
+      ]
+    },
+    {
+      "id": "beginner",
+      "heading": "The first hour",
+      "paragraphs": [
+        "Join the experience from the official Roblox place, not a similarly named game. The page is published by Fight, Fight, Fight!, the maturity label is mild violence, and each server holds 12 players. Your commander is in the fight. Kills matter when they clear a point, and they do not matter when the squad is chasing someone away from the objective the round is scoring.",
+        "Finish the tutorial before you summon. That lesson is where you learn Follow, Hold, Attack, and Rush. Follow, on C, keeps the squad with you while you cross open ground. Hold stays on a capture point. Attack commits troops to a target. Rush sends them forward and should wait until the enemy line is already thin. After the tutorial, claim Mercenary, Shieldman, Spearman, and Archer. Equip three of them inside the star cap, then redeem codes before you spend Gems.",
+        "Attackers take the points in order: Capture Point A, then Capture Point B, then the capture base. Defenders only have to stop that push. Sword and Shield is the class to start on, because you can block while you learn the orders. You can change class later. The live cost of a class change is on the menu. The first-hour order, the early loadout, and the mistakes that waste the session are in the beginner guide."
+      ],
+      "links": [
+        {
+          "label": "Beginner guide",
+          "slug": "beginner-guide",
+          "description": "Tutorial, codes, first loadout, Star Limit, then evolution."
+        }
+      ]
+    },
+    {
+      "id": "discord",
+      "heading": "Discord",
+      "paragraphs": [
+        "The Discord to join is discord.gg/commandrblx. The server name is COMMAND AN ARMY. Players use it for code posts, update talk, bug reports, and groups. There is no public Trello for codes. Read the announcement, then redeem inside the game.",
+        "Use that invite rather than a server that only shares part of the name. One lookalike, commandanarmys, belongs to a different game. The Discord page explains what the server is for, how to join without handing over a Roblox password, and how to tell the two communities apart. The Roblox group behind the game is Fight, Fight, Fight!"
+      ],
+      "links": [
+        {
+          "label": "Discord server",
+          "slug": "discord",
+          "description": "The commandrblx invite and the lookalike to avoid."
+        }
+      ]
+    },
+    {
+      "id": "match",
+      "heading": "How a match works",
+      "paragraphs": [
+        "The loop is four beats: recruit troops, capture points, order formations, and collect and upgrade what you field. You also pick a side. Attackers move the push. Defenders stop it. You fight on foot or on a horse while the equipped troops follow the order you give them. The horse has its own health, and the roll is how you leave a swing once you are clear.",
+        "A clean round is simple. Spawn, press Follow until the squad is actually grouped, walk onto the point the objective names, and switch to Hold when contact starts. If you are attacking, leave for the next point only after the current one is yours. If you are defending, do not give the point away by chasing a runner into their spawn. When a troop dies and you are the attacker, you can bring a replacement back in from your spawn. Defenders are trying to stop the flag push that lets the other side do that.",
+        "Progress between matches is the other half of the game. Wins and quests feed account experience, which raises the Star Limit. Using one troop feeds that troop's mastery, which unlocks evolution at level 20. Duplicate copies feed ascension, up to ascension 3. Delete a spare copy only after that cap, when the game returns a small Gem refund. The refund amount is on the delete prompt. Badges on the Roblox page mark the first join, the first win, and the Warlord goal of 1,000 wins. None of those replace a squad that fits the star cap.",
+        "Two lobby stations are easy to mix up. The ascension station merges duplicates and raises the copy you keep. The Evolution station is separate and only lists units that have a path and have reached Mastery 20. Opening the wrong one is how players burn a duplicate they still needed, or wait on a 4-star summon that was never going to evolve. Read the button name before you confirm."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Command An Army?",
+      "answer": "It is a free Roblox game by Fight, Fight, Fight! You bring a small squad into 12-player team battles, choose attack or defend, capture points, and upgrade the troops you collect."
+    },
+    {
+      "question": "Is Command An Army free?",
+      "answer": "Yes. The Roblox page is a free experience. Optional purchases may exist inside Roblox. The codes, evolution, and loadout advice here do not require them."
+    },
+    {
+      "question": "Where do Command An Army codes go?",
+      "answer": "Finish the tutorial, open the Code button on the right side of the screen, enter the code exactly, and press Claim. The working list is on the codes page."
+    },
+    {
+      "question": "How do you evolve units in Command An Army?",
+      "answer": "Level that unit to Mastery 20 in matches, then confirm the next form at the lobby Evolution station if the unit has a path. Ascension is a different merge and does not replace this step."
+    },
+    {
+      "question": "What is the Star Limit?",
+      "answer": "It is the combined star cost of the troops you can equip at once. New accounts start at 6 stars and three slots, with a fourth slot around account level 15. The loadout screen shows the live numbers."
+    },
+    {
+      "question": "Which units should a new player keep?",
+      "answer": "Claim Mercenary, Shieldman, Spearman, and Archer. Field a mix that can hold a point and still shoot. Keep Archer, and keep any Scout Rider you summon if you want Flame Archers or Lancer later."
+    },
+    {
+      "question": "Where is the Command An Army Discord?",
+      "answer": "Join discord.gg/commandrblx. The server name is COMMAND AN ARMY. Skip servers that only share part of the name, including invites tied to other Roblox games."
+    },
+    {
+      "question": "Does this site post an official tier list?",
+      "answer": "No. The tier list is a practical ranking for players. It is not an official chart from the developer."
+    }
+  ],
+  "screenshots": [],
+  "lastReviewed": "2026-09-29"
+}
