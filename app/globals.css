@@ -144,7 +144,50 @@ html[data-header-style="border"] .site-nav-link {
   border-radius: 0;
 }
 
+.ad-placement-banner,
+.ad-banner,
+.ad-native {
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+}
+.ad-banner,
+.ad-native {
+  margin: 16px auto 24px;
+  text-align: center;
+}
+.ad-banner {
+  min-height: 112px;
+}
+.ad-placement-banner {
+  min-height: 112px;
+}
+.ad-native {
+  max-width: 1160px;
+  padding: 16px 0;
+  border-top: 1px solid #dedede;
+  border-bottom: 1px solid #dedede;
+}
+.ad-label {
+  display: block;
+  margin-bottom: 8px;
+  color: #777;
+  font: 10px/1.2 Arial, sans-serif;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+}
+.ad-banner-frame {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  border: 0;
+  overflow: hidden;
+}
 [data-native-ad-slot]:empty { display: none; }
+@media (max-width: 767px) {
+  .ad-banner,
+  .ad-placement-banner { min-height: 72px; }
+}
 
 /* Editorial fixed template: readable measure, mobile nav, and data tables. */
 body[data-fixed-template="editorial"] header .head {

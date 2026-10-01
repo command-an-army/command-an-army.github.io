@@ -1,4 +1,4 @@
-import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
+import { placeFixedAds } from "@/components/integrations/fixed-ad-placements";
 import { JsonLd } from "@/components/site/json-ld";
 import { siteConfig } from "@/config/site";
 import { siteSkin } from "@/config/skin";
@@ -64,8 +64,7 @@ export function FixedTemplateHome({ home }: { home: HomePageDefinition }) {
   return (
     <>
       <JsonLd data={homeSchemas(home)} />
-      <InteractiveHtml html={rendered.rest} />
-      <div className="site-container"><NativeAdSlot /></div>
+      <InteractiveHtml html={placeFixedAds(rendered.rest, "home")} ads />
     </>
   );
 }

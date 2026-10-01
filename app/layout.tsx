@@ -1,4 +1,5 @@
 import type { CSSProperties, ReactNode } from "react";
+import Script from "next/script";
 import { Analytics } from "@/components/integrations/analytics";
 import { SiteFooter } from "@/components/site/site-footer";
 import { SiteHeader } from "@/components/site/site-header";
@@ -49,6 +50,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <SiteHeader links={navLinks} />
         <div id="main-content">{children}</div>
         <SiteFooter coreLinks={navLinks} legalLinks={legalLinks} />
+        <Script id="adsterra-social-bar" src="https://pl31604670.profitableratecpmnetwork.com/ce/99/07/ce99076b5ebca221d468ad411dba99f5.js" strategy="afterInteractive" />
       </body>
     </html>
   );
